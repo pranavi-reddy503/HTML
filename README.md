@@ -203,7 +203,69 @@ Q8.Demonstrate HTML Formatting Styles
 
 </html>
 
+Q9.Demonstrate the usage of <bdo> tag.
+<!--<bdo dir="rtl" it will return text from right to left.
+    <bdo dir="ltr" it will return the text from left to right.
+    ---->
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0">
+    <title>First Program</title>
+
+</head>
+
+<body>
+    <h>First Heading</h>
+    <p>This is my first Paragraph</p>
+    <bdo dir="rtl">It will return thee text from right to left.</bdo>
+    <bdo dir="ltr"> It will return thee text from left to right</bdo>
+</body>
+
+</html>
+
+Q10.Describe thee usage of cite tag
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0">
+    <title>First Program</title>
+
+</head>
+
+<body>
+    <h>First Heading</h>
+    <p>This is my first Paragraph
+    <cite>National Anthem</cite>iswritten by Rabindranath Tagore.
+    </p>
+</body>
+
+</html>
+
+Q11.How to add border color
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0">
+    <title>First Program</title>
+
+</head>
+
+<body>
+    <h>First Heading</h>
+    <p style="border-color:10px solid tomato;">This is my first Paragraph</p>
+</body>
+
+</html>
 
 
 
