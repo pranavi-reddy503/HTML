@@ -43,6 +43,7 @@ Q2.To demonstrate the use of 6 heading tags from <h1> to <h6> in HTML.
 </html>
 
 Q3.How to include an image or a link in a html code.
+<!-- href tag is used to get responsive pages.It helps to link one page to another-->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -84,6 +85,7 @@ Q4.Demonstrate the usage of image tag.
 </html>
 
 Q5.Demonstrate the usage of line breaker
+<!-- br is a tag used to break the line in a paragraph-->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -103,6 +105,8 @@ Q5.Demonstrate the usage of line breaker
 </html>
 
 Q6.Give an example of a tag that seperates th content.
+<!-- hr tag inludes horizontal lines between the text-->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -126,6 +130,7 @@ Q6.Give an example of a tag that seperates th content.
 </html>
 
 Q7.Demonstrate the usage of a tag used to write poems.
+<!-- pre tag is used to write poems.It will return the spacing and gaps between lines-->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -150,6 +155,7 @@ Q7.Demonstrate the usage of a tag used to write poems.
 </html>
 
 Q7.Show all the usages of HTML Styles.
+<!-- hr tag inludes horizontal lines between the text-->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -172,6 +178,30 @@ Q7.Show all the usages of HTML Styles.
 
 </html>
 
+Q8.Demonstrate HTML Formatting Styles
+<!--This includes bold,italic,mark,delete,inset---->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0">
+    <title><b>First Program</b></title>
+
+</head>
+
+<body>
+    <h>First Heading</h>
+    <p><i>This is my first Paragraph</i></p>
+    <p>This is the <sub>subscript</sub> of the sentence.<br>
+    This is the <sup>superscript</sup> of the sentence.<br>
+    Mark is a tag which is used to<mark>mark</mark>the sentence.
+    Krishna is my <del>good friend</del>best friend.
+    </p>
+</body>
+
+</html>
 
 
 
